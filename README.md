@@ -1,8 +1,5 @@
 # Applying Machine Learning Concepts to Results from Distillation Column Simulation
 
-### Table of Contents
-* [Prerequisites](#prerequisites)
-
 ### Setting Up
 
 Install virtualenv and virtualenvwrapper packages by running the following terminal commands.
@@ -72,4 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Authors of all packages that were used (see Setting Up).
+* [Chuk](https://www.iss.nus.edu.sg/about-us/staff/detail/532/LEE%20Chuk%20Munn) and [Lisa](https://www.iss.nus.edu.sg/about-us/staff/detail/203/Lisa%20ONG) of NUS ISS for the 4-day course Kickstarting Your Machine Learning Journey, organized by [NUS-ISS](https://www.iss.nus.edu.sg/) and [SGInnovate](https://www.sginnovate.com/).
