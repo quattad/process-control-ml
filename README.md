@@ -53,7 +53,6 @@ Start local server for Jupyter in the project directory. Your default browser (u
 ```
 $ jupyter notebook
 ```
-## Acknowledgements
 
 ## Versioning
 
